@@ -1,2 +1,6 @@
 # good writer
+<<<<<<< HEAD
 fine read.
+=======
+roko edit
+>>>>>>> 531ec11
